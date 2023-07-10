@@ -6,6 +6,7 @@
   <ol>
     <li><strong>Home:</strong></li>
     ![_D__Githib__Education%20website_index html](https://github.com/inaamilyas/Education-Website/assets/108390164/960bbbc6-6130-48c7-9e9d-d4c7dcccad36)
+    <img src="https://github.com/inaamilyas/Education-Website/assets/108390164/960bbbc6-6130-48c7-9e9d-d4c7dcccad36" >
 
     <li><strong>Courses:</strong></li>
     ![_D__Githib__Education%20website_course html](https://github.com/inaamilyas/Education-Website/assets/108390164/3faba249-b217-48b6-a7ec-ccd86f67565d)
