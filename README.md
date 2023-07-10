@@ -5,20 +5,19 @@
 
   <ol>
     <li><strong>Home:</strong></li>
-    ![_D__Githib__Education%20website_index html](https://github.com/inaamilyas/Education-Website/assets/108390164/960bbbc6-6130-48c7-9e9d-d4c7dcccad36)
     <img src="https://github.com/inaamilyas/Education-Website/assets/108390164/960bbbc6-6130-48c7-9e9d-d4c7dcccad36" >
 
     <li><strong>Courses:</strong></li>
-    ![_D__Githib__Education%20website_course html](https://github.com/inaamilyas/Education-Website/assets/108390164/3faba249-b217-48b6-a7ec-ccd86f67565d)
+    <img src="https://github.com/inaamilyas/Education-Website/assets/108390164/3faba249-b217-48b6-a7ec-ccd86f67565d" >
 
     <li><strong>Blog:</strong></li>
-    ![_D__Githib__Education%20website_blog html](https://github.com/inaamilyas/Education-Website/assets/108390164/41a1b619-6c70-44b8-97e4-62f55d769d9f)
+    <img src="https://github.com/inaamilyas/Education-Website/assets/108390164/41a1b619-6c70-44b8-97e4-62f55d769d9f" >
 
     <li><strong>About us:</strong></li>
-    ![_D__Githib__Education%20website_about html](https://github.com/inaamilyas/Education-Website/assets/108390164/db8fc0af-55bb-49e0-8b54-99502ab408b8)
+    <img src="https://github.com/inaamilyas/Education-Website/assets/108390164/db8fc0af-55bb-49e0-8b54-99502ab408b8" >
 
     <li><strong>Contact:</strong></li>
-    ![_D__Githib__Education%20website_contact html](https://github.com/inaamilyas/Education-Website/assets/108390164/df3a3fad-49f3-4da2-94c8-faf5a4b08b39)
+    <img src="https://github.com/inaamilyas/Education-Website/assets/108390164/df3a3fad-49f3-4da2-94c8-faf5a4b08b39" >
 
   </ol>
 
